@@ -27,7 +27,7 @@
       [
         {
           "type": "rect",
-          "width": 0.4, 
+          "width": 0.55, 
           "height": 1.4,
           "location": [0, 0],
           "style": "fill"

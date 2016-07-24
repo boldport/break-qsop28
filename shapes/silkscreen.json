@@ -1,0 +1,68 @@
+{
+  "layout":
+  {
+    "silkscreen":
+    {
+      "shapes":
+      [
+        {
+          "location": [
+            -1.9, 
+            -4.4
+          ], 
+          "style": "stroke",
+          "stroke-width": 0.15, 
+          "type": "path",
+          "layers": ["top","bottom"],
+          "value": "M -4.8501125,4.8263505 -4.2440061,4.42108 M -4.8501125,4.0158105 -4.2440061,4.421081 m -1.7349954,0 1.7349954,0 M -2.7989856,4.8263505 -3.405092,4.42108 M -2.7989856,4.0158105 -3.405092,4.421081 m 1.7349954,0 -1.7349954,0 M -3.4925,3.8358055 l 0,1.1705509 m -0.635,-1.1705509 0,1.1705509"
+        },
+        {
+          "location": [
+            0, 
+            0
+          ], 
+          "style": "fill",
+          "type": "path",
+          "layers": ["top","bottom"],
+          "value": "m -4.7285156,-1.7109375 c -0.029342,0.00525 -0.050723,0.03074 -0.050781,0.060547 l 0,3.3007812 c 5.924e-4,0.033956 0.028543,0.061033 0.0625,0.060547 l 9.4335938,0 c 0.033957,4.855e-4 0.061908,-0.026591 0.0625,-0.060547 l 0,-3.3007812 c -5.924e-4,-0.033955 -0.028543,-0.061032 -0.0625,-0.060547 l -9.4335938,0 c -0.0039,-3.722e-4 -0.00782,-3.722e-4 -0.011719,0 z"
+        },
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "layers": ["top","bottom"],
+          "font-size": "1.5mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "1.5mm", 
+          "location": [2.7,-4.4],
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "QSOP"
+        },
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "layers": ["top","bottom"],
+          "font-size": "1.5mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "1.5mm", 
+          "location": [0,-5.8],
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "0.635mm pitch"
+        },
+        {
+          "font-family": "UbuntuMono-R-webfont", 
+          "layers": ["top","bottom"],
+          "font-size": "2.5mm", 
+          "letter-spacing": "0mm", 
+          "line-height": "2.5mm", 
+          "location": [0,4.8],
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text", 
+          "value": "boldport.club"
+        }
+      ]
+    }
+  }
+}

@@ -237,14 +237,7 @@
           "type": "rect",
           "layers": ["top"],
           "width": 4.4,
-          "height": 9.15
-        },
-        { 
-          "type": "circle",
-          "layers": ["top"],
-          "style": "fill",
-          "diameter": 0.5,
-          "location": [-2.7,4.35]
+          "height": 10.48
         }
       ]
     },
@@ -256,15 +249,8 @@
           "type": "rect",
           "layers": ["top"],
           "width": 3.9,
-          "height": 8.65,
+          "height": 9.98,
           "offset": [0, 0] 
-        },
-        { 
-          "type": "circle",
-          "layers": ["top"],
-          "style": "fill",
-          "diameter": 0.5,
-          "location": [-1.4,3.75]
         }
       ]
     }

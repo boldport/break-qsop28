@@ -51,12 +51,12 @@
           "value": "0.635mm pitch"
         },
         {
-          "font-family": "UbuntuMono-R-webfont", 
+          "font-family": "Helsinki-webfont", 
           "layers": ["top","bottom"],
-          "font-size": "2.5mm", 
+          "font-size": "2.2mm", 
           "letter-spacing": "0mm", 
-          "line-height": "2.5mm", 
-          "location": [0,4.8],
+          "line-height": "2.2mm", 
+          "location": [0,4.5],
           "rotate": 0, 
           "style": "fill", 
           "type": "text", 

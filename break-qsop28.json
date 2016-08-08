@@ -19,6 +19,25 @@
         }
       }
     }, 
+    "IC2": {
+      "footprint": "QSOP28", 
+      "layer": "bottom", 
+      "location": [
+        0, 
+        0
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
     "J1": {
       "footprint": "1x4-2p54mm-header", 
       "layer": "top", 
@@ -108,7 +127,7 @@
       "show": true, 
       "silkscreen": {
         "refdef": {
-          "rotate": 0,
+          "rotate": 0, 
           "show": false
         }
       }
@@ -607,6 +626,139 @@
         }
       }
     }, 
+    "R33": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -16.51, 
+        11.43
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "R34": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -13.97, 
+        11.43
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "R35": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -11.43, 
+        11.43
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "R36": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -8.89, 
+        11.43
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "R37": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -6.35, 
+        11.43
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "R38": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -3.81, 
+        11.43
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
+    "R39": {
+      "footprint": "0805", 
+      "layer": "bottom", 
+      "location": [
+        -1.27, 
+        11.43
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
     "R4": {
       "footprint": "0805", 
       "layer": "top", 
@@ -626,66 +778,9 @@
         }
       }
     }, 
-    "R5": {
+    "R40": {
       "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -6.35, 
-        11.43
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }
-      }
-    }, 
-    "R6": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -3.81, 
-        11.43
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }
-      }
-    }, 
-    "R7": {
-      "footprint": "0805", 
-      "layer": "top", 
-      "location": [
-        -1.27, 
-        11.43
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }
-      }
-    }, 
-    "R8": {
-      "footprint": "0805", 
-      "layer": "top", 
+      "layer": "bottom", 
       "location": [
         1.27, 
         11.43
@@ -702,49 +797,11 @@
         }
       }
     }, 
-    "R9": {
+    "R41": {
       "footprint": "0805", 
-      "layer": "top", 
+      "layer": "bottom", 
       "location": [
         3.81, 
-        11.43
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }
-      }
-    },
-    "IC2": {
-      "footprint": "QSOP28", 
-      "layer": "bottom", 
-      "location": [
-        0, 
-        0
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }
-      }
-    }, 
-    "R33": {
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        -16.51, 
         11.43
       ], 
       "rotate": 90, 
@@ -911,6 +968,25 @@
         }
       }
     }, 
+    "R5": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -6.35, 
+        11.43
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
     "R50": {
       "footprint": "0805", 
       "layer": "bottom", 
@@ -936,25 +1012,6 @@
       "location": [
         -6.35, 
         -11.43
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }
-      }
-    }, 
-    "R34": {
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        -13.97, 
-        11.43
       ], 
       "rotate": 90, 
       "show": true, 
@@ -1120,6 +1177,25 @@
         }
       }
     }, 
+    "R6": {
+      "footprint": "0805", 
+      "layer": "top", 
+      "location": [
+        -3.81, 
+        11.43
+      ], 
+      "rotate": 90, 
+      "show": true, 
+      "silkscreen": {
+        "refdef": {
+          "location": [
+            0, 
+            0
+          ], 
+          "show": false
+        }
+      }
+    }, 
     "R60": {
       "footprint": "0805", 
       "layer": "bottom", 
@@ -1147,25 +1223,6 @@
         -1.5
       ], 
       "rotate": 0, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }
-      }
-    }, 
-    "R35": {
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        -11.43, 
-        11.43
-      ], 
-      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -1234,66 +1291,9 @@
         }
       }
     }, 
-    "R36": {
+    "R7": {
       "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        -8.89, 
-        11.43
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }
-      }
-    }, 
-    "R37": {
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        -6.35, 
-        11.43
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }
-      }
-    }, 
-    "R38": {
-      "footprint": "0805", 
-      "layer": "bottom", 
-      "location": [
-        -3.81, 
-        11.43
-      ], 
-      "rotate": 90, 
-      "show": true, 
-      "silkscreen": {
-        "refdef": {
-          "location": [
-            0, 
-            0
-          ], 
-          "show": false
-        }
-      }
-    }, 
-    "R39": {
-      "footprint": "0805", 
-      "layer": "bottom", 
+      "layer": "top", 
       "location": [
         -1.27, 
         11.43
@@ -1310,9 +1310,9 @@
         }
       }
     }, 
-    "R40": {
+    "R8": {
       "footprint": "0805", 
-      "layer": "bottom", 
+      "layer": "top", 
       "location": [
         1.27, 
         11.43
@@ -1329,9 +1329,9 @@
         }
       }
     }, 
-    "R41": {
+    "R9": {
       "footprint": "0805", 
-      "layer": "bottom", 
+      "layer": "top", 
       "location": [
         3.81, 
         11.43
